@@ -10,6 +10,7 @@ $ git clone https://github.com/shriniyesare/react-native-psdproject
 $ cd psdproject
 
  Install dependencies
+ 
 $ npm install
 
 $ react-native run-ios
