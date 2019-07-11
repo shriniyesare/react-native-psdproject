@@ -1,4 +1,6 @@
 # react-native-psdproject
+Create a Mobile app using React native, Create a login system for users.
+User dashboard on mobile screen.
 
 Steps to install 
 
