@@ -6,6 +6,7 @@ Steps to install
 $ git clone https://github.com/shriniyesare/react-native-psdproject
 
  Go into the repository
+ 
 $ cd psdproject
 
  Install dependencies
