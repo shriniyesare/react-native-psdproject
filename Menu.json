@@ -1,0 +1,17 @@
+/**
+ * Created by shriniwas.yesare on 03/07/19.
+ */
+{
+    "First": {
+        "title": "First Screen",
+        "body": "Lorem ipsum some content for Screen 1."
+    },
+    "Second": {
+        "title": "Second Screen",
+        "body": "Lorem ipsum some content for Screen 2."
+    },
+    "Third": {
+        "title": "Third Screen",
+        "body": "Lorem ipsum some content for Screen 3."
+    }
+}
