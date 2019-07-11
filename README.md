@@ -7,11 +7,13 @@ Please setup react native environment from below link.
 https://facebook.github.io/react-native/docs/getting-started.html
 
 brew install node
-brew install watchman
-npm install -g react-native-cli
-install Xcode
 
-Please 
+brew install watchman
+
+npm install -g react-native-cli
+
+install Xcode
+ 
 
 # Clone this repository
 $ git clone https://github.com/shriniyesare/react-native-psdproject
